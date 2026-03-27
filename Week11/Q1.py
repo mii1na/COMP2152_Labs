@@ -1,10 +1,6 @@
 # ============================================================
 #  WEEK 11 LAB — Q1: PORT SCANNER CLASS
-<<<<<<< HEAD
 #  COMP2152 — Mina Fahim
-=======
-#  COMP2152 — Mina Fahim
->>>>>>> lab_week11
 # ============================================================
 #
 #  You already know how to scan ports from Assignment 2.
@@ -86,3 +82,4 @@ if __name__ == "__main__":
     scanner2.display_results()
 
     print("\n" + "=" * 60)
+
