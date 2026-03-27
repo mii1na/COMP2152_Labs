@@ -1,6 +1,10 @@
 # ============================================================
 #  WEEK 11 LAB — Q1: PORT SCANNER CLASS
-#  COMP2152 — [Mina Fahim]
+<<<<<<< HEAD
+#  COMP2152 — Mina Fahim
+=======
+#  COMP2152 — Mina Fahim
+>>>>>>> lab_week11
 # ============================================================
 #
 #  You already know how to scan ports from Assignment 2.
